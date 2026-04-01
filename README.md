@@ -37,6 +37,8 @@ Atualmente, estou a dedicar-me ao **Identifica**, uma plataforma de identidade d
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TEU-USER-AQUI]&layout=compact&langs_count=7&theme=vibrant" />
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falumeDev&show_icons=true&theme=transparent)
+
 ---
 
 ### 📬 Vamos conversar?
