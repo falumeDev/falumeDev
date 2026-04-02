@@ -32,12 +32,10 @@ Atualmente, estou a dedicar-me ao **Identifica**, uma plataforma de identidade d
 ---
 
 ### 📊 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TEU-USER-AQUI]&show_icons=true&theme=vibrant&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TEU-USER-AQUI]&layout=compact&langs_count=7&theme=vibrant" />
-</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falumeDev&show_icons=true&theme=dark)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falumedev]&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakNum=9f9f9f" alt="GitHub Streak" />
+</p>
 
 ---
 
