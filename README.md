@@ -15,8 +15,16 @@ My work lives at the intersection of **engineering discipline** and **design int
 ```ts
 const dillan = {
   role:      ["Software Engineer", "Product Designer"],
-  focus:     ["Mobile", "Auth & Sessions", "Design Systems"],
-  belief:    "The best interfaces are the ones users never think about.",
+ 
+  craft: {
+    mobile:     ["cross-platform architecture", "native feel on RN & Flutter"],
+    ui_ux:      ["interaction design", "motion", "design tokens", "accessibility"],
+    dashboards: ["data-dense layouts", "real-time state", "admin panels"],
+    systems:    ["design systems", "component APIs", "docs-as-code"],
+    flows:      ["auth flows", "onboarding", "complex multi-step UX"],
+  },
+ 
+  belief:    "Complexity is the enemy. Clarity is the work.",
   currently: "Building something. Always.",
 };
 ```
@@ -37,6 +45,8 @@ const dillan = {
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=58a6ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=flat-square&logo=android&logoColor=58a6ff)
 
 </div>
 
@@ -45,8 +55,11 @@ const dillan = {
 ### `$ ls -la ./projects`
 
 ```
-drwxr-xr-x  project-01   SaudeConect - is an internal drug distribution management system for healthcare facilities in Mozambique.
-drwxr-xr-x  project-02   Identifica App - Digital Wallet
+drwxr-xr-x  project-01   SaúdConect
+drwxr-xr-x  project-02   Identifica
+drwxr-xr-x  project-03   Resolvo
+drwxr-xr-x  project-04   Urbiz
+drwxr-xr-x  project-05   Boardz
 ```
 
 > details loading...
